@@ -1,5 +1,4 @@
 # Clone-GitHub
-# Página de Login do GitHub
 
 ## Descrição
 Este projeto é uma recriação da página de login do GitHub. O objetivo é praticar HTML, CSS e JavaScript.
