@@ -42,12 +42,9 @@ Este projeto pode ser melhorado de várias maneiras, incluindo:
 * Adicionar suporte para login social.
 * Adicionar suporte para login com token.
 
-## Licença
-
-Este projeto está licenciado sob a licença MIT.
 
 ## Captura de tela
 
-![Captura de tela da página de login](./screenshot.png)
+clone-git-hub-peach.vercel.app
 
 
