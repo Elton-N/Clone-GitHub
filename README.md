@@ -45,6 +45,6 @@ Este projeto pode ser melhorado de várias maneiras, incluindo:
 
 ## Captura de tela
 
-clone-git-hub-peach.vercel.app
+
 
 
