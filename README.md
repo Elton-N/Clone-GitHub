@@ -9,8 +9,11 @@ Este projeto foi desenvolvido com o objetivo de praticar o uso de HTML e CSS. A 
 
 ## Tecnologias utilizadas
 
-* HTML
-* CSS
+HTML: Para a estrutura da página.
+CSS: Para o estilo e layout da página.
+Git e GitHub: Para o controle de versão e hospedagem do código.
+Figma: Para a clonagem do design.
+Vercel: Para implantação e hospedagem.
 
 ## Como usar
 
