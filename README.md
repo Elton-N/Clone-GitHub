@@ -29,11 +29,6 @@ Para usar o clone da página de login do GitHub, siga estas etapas:
 4. Salve o arquivo `index.html`.
 5. Abra o arquivo `index.html` em um navegador web.
 
-## Links externos
-
-* [Documentação do GitHub](https://docs.github.com/pt/github/authenticating-to-github/signing-in-to-github)
-* [Ajuda do GitHub](https://help.github.com/pt/github/authenticating-to-github/signing-in-to-github)
-
 ## Interface
 Você pode conferir o design da interface no link da Figma para ter uma visão detalhada de como o projeto se parece.
 
