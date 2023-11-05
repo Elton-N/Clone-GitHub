@@ -34,14 +34,8 @@ Para usar o clone da página de login do GitHub, siga estas etapas:
 * [Documentação do GitHub](https://docs.github.com/pt/github/authenticating-to-github/signing-in-to-github)
 * [Ajuda do GitHub](https://help.github.com/pt/github/authenticating-to-github/signing-in-to-github)
 
-## Melhorias
-
-Este projeto pode ser melhorado de várias maneiras, incluindo:
-
-* Adicionar suporte para autenticação de dois fatores.
-* Adicionar suporte para login social.
-* Adicionar suporte para login com token.
-
+## Interface
+Você pode conferir o design da interface no link da Figma para ter uma visão detalhada de como o projeto se parece.
 
 ## Captura de tela
 https://clone-git-hub-peach.vercel.app/
