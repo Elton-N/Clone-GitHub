@@ -22,8 +22,10 @@ Vercel: Para implantação e hospedagem.
 ## Desafios
 Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
-Mantenha a organização da página original
+Mantenha a organização da página original.
+
 A organização eficiente de elementos em linhas e colunas proporciona uma experiência de usuário agradável.
+
 Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Interface
