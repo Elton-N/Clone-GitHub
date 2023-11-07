@@ -29,7 +29,7 @@ A organização eficiente de elementos em linhas e colunas proporciona uma exper
 Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Interface
-Você pode conferir o design da interface no link da Figma para ter uma visão detalhada de como o projeto se parece.
+Você pode conferir o design da interface no  a para ter uma visão detalhada de como o projeto se parece.
 
 ## Captura de tela
 https://clone-git-hub-peach.vercel.app/
