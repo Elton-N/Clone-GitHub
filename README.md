@@ -19,15 +19,12 @@ Figma: Para a clonagem do design.
 
 Vercel: Para implantação e hospedagem.
 
-## Como usar
+## Desafios
+Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes desafios:
 
-Para usar o clone da página de login do GitHub, siga estas etapas:
-
-1. Clone o repositório para o seu computador.
-2. Abra o arquivo `index.html` em um editor de texto.
-3. Altere os valores dos campos `email` e `password` para as suas informações de login do GitHub.
-4. Salve o arquivo `index.html`.
-5. Abra o arquivo `index.html` em um navegador web.
+Mantenha a organização da página original
+A organização eficiente de elementos em linhas e colunas proporciona uma experiência de usuário agradável.
+Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
 ## Interface
 Você pode conferir o design da interface no link da Figma para ter uma visão detalhada de como o projeto se parece.
